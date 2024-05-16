@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967316569708",
+    "project_id": "adidas-6910d",
+    "storage_bucket": "adidas-6910d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967316569708:android:087da1ef0fe6b0768e2249",
+        "android_client_info": {
+          "package_name": "com.example.adidas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA97uvoMQhZhMwCrw6gI-hb6vTa11mSxyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
